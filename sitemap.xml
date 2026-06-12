@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://www.truth-teller.org/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.truth-teller.org/Updates.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.truth-teller.org/documents.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.truth-teller.org/media-coverage.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.truth-teller.org/OTS-Misinformation.html</loc>
+    <priority>0.8</priority>
+  </url>
+<url>
+    <loc>https://www.truth-teller.org/Venues.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.truth-teller.org/Legal.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.truth-teller.org/contact.html</loc>
+    <priority>0.6</priority>
+  
+<url>
+  <loc>https://www.truth-teller.org/updates/april-2026.html</loc>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://www.truth-teller.org/updates/october-2025.html</loc>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://www.truth-teller.org/updates/september-2025.html</loc>
+  <priority>0.7</priority>
+<url>
+  <loc>https://www.truth-teller.org/updates/july-2026.html</loc>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://www.truth-teller.org/updates/june-2025.html</loc>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://www.truth-teller.org/updates/may-2025.html</loc>
+  <priority>0.7</priority>
+</url>
+
+</urlset>
